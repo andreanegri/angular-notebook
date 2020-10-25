@@ -1,6 +1,9 @@
 # angular-notebook
 My Angular notepad, discoveries, etc.
 
+## The Basics
+- https://angular.io/
+- https://angular.io/tutorial
 
 ## UI kits / Components Libraries
 - [Nebular](https://akveo.github.io/nebular/)
