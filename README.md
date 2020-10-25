@@ -5,6 +5,9 @@ My Angular notepad, discoveries, etc.
 - https://angular.io/
 - https://angular.io/tutorial
 
+## Useful links
+- [Awesome Angular](https://github.com/PatrickJS/awesome-angular)
+
 ## UI kits / Components Libraries
 - [Nebular](https://akveo.github.io/nebular/)
 - [Angular Material](https://material.angular.io/)
