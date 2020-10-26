@@ -12,6 +12,10 @@ My Angular notepad, discoveries, etc.
 - [Nebular](https://akveo.github.io/nebular/)
 - [Angular Material](https://material.angular.io/)
 - [PrimeNG](https://www.primefaces.org/primeng/)
+- [jQWidgets](https://www.jqwidgets.com/)
+
+## Forms / Surveys
+- [SurveyJS](https://github.com/surveyjs/survey-library)
 
 ## Maps
 
