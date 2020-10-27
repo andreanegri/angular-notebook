@@ -13,6 +13,7 @@ My Angular notepad, discoveries, etc.
 - [Angular Material](https://material.angular.io/)
 - [PrimeNG](https://www.primefaces.org/primeng/)
 - [jQWidgets](https://www.jqwidgets.com/)
+- [ngx-materialize](https://sherweb.github.io/ngx-materialize/home)
 
 ## Forms / Surveys
 - [SurveyJS](https://github.com/surveyjs/survey-library)
